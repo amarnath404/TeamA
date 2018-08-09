@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/jars/antlr-3.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="F:/jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/jars/hibernate-core-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="F:/jars/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/jars/javaee.jar"/>
+	<classpathentry kind="lib" path="F:/jars/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="F:/jars/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/jars/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-aop-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-beans-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-instrument-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-jdbc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-web-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jars/spring-webmvc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
